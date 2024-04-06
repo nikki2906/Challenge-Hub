@@ -1,4 +1,4 @@
-(Video Walkthorugh)[https://imgur.com/a/nG5knFj]
+[Video Walkthorugh](https://imgur.com/a/nG5knFj)
 
 # Getting Started with Create React App
 
